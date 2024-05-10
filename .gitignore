@@ -1,0 +1,8 @@
+*
+!src
+!src/*
+!ss
+!ss/*
+!CMakeLists.txt
+!README.MD
+!.gitignore
